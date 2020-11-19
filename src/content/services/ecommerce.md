@@ -1,25 +1,30 @@
 ---
-title: "E-Commerce"
+title: "Commerce"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-This is the field to change ng concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Sell where your customers are, online, in-store, through social media or other digital platforms. 
+
 
 ![Ecommerce Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+# E-Commerce and Commerce 
 
-Financial accounting and financial reporting are often used as synonyms.
+The data is consistent, year after year the e-commerce market continues to rise, according to Shopify by the year 2021, worldwide retail e-commerce sales will reach $4.9 trillion, according to the US bureau of statistics the amount surpasses the $5,000 billion in 2018. 
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Commerce will continue to evolve and more opportunities will appear. 
+We will help you set up or enhance your current presence. Don't wait get up an running in as little as a week. 
 
-## Relevance
+## Deliverables
+- Store Set Up with shopify.
+- Store design and development. 
+- POS System. 
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+![Shopify Stores](/images/shopify_logo_whitebg.svg)
+
+<!-- Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
 
 > The ingredients of relevance are the predictive value and confirmatory value. 
 
@@ -78,4 +83,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
         - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->

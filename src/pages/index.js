@@ -27,7 +27,7 @@ const Home = props => {
           <div className="row justify-content-start">
             <div className="col-12 col-md-7 col-lg-6 order-2 order-md-1">
               <div dangerouslySetInnerHTML={{ __html: intro.html }} />
-              <Call showButton />
+              
             </div>
             {intro.frontmatter.intro_image && (
               <div className="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -57,7 +57,7 @@ const Home = props => {
             </div>
             <div className="row justify-content-center">
               <div className="col-auto">
-                <Link className="button button-primary" to="/services/">View All Services</Link>
+                <Link className="button button-primary" to="/contact/">Contact Us</Link>
               </div>
             </div>
           </div>

@@ -19,7 +19,8 @@ const SubFooter = props => {
         <div className="row">
           <div className="col-12">
             <div className="sub-footer-inner">
-              <Social />
+              {/* <Social /> */}
+              <p style={{color:'#fff', fontSize: '14px'}}>2150 Canalport Suite 2A-11 Chicago IL 60608.</p>
               <div className="copyright">
                 <span>{data.configJson.footer.copyright_text}</span>
                 {data.configJson.footer.copyright_link && (

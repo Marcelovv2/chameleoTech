@@ -13,7 +13,23 @@ const Contact = ({ data }) => {
         <div className="row justify-content-start">
           <div className="col-12 col-md-8">
             <h1 className="title">{title}</h1>
-            <Call showButton={false} />
+          
+              <form name="contact" method="POST" data-netlify="true">
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" class="form-control" id="name" name="email" aria-describedby="emailHelp"/>
+                </div>
+                <div class="form-group">
+                  <label for="email">Email address</label>
+                  <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" />
+                  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea class="form-control" id="message" rows="3" name="message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </form>
             <div className="content mt-4" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
         </div>
